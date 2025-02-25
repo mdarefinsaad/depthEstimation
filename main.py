@@ -4,6 +4,7 @@ import time
 
 path_model = "model/"
 
+# https://github.com/isl-org/MiDaS?utm_source=chatgpt.com
 # Read Network
 # MiDaS v2.1 Large
 # model_name = "model-f6b98070.onnx"
