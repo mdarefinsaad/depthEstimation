@@ -1,4 +1,4 @@
-## Depth Estimation Project
+## Depth Estimation
 
 This project is a real-time depth estimation application using a neural network model. It captures video from a webcam, processes each frame to estimate depth, and displays both the original image and the depth map.
 
